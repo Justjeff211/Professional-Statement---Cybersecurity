@@ -1,5 +1,9 @@
 # Professional Statement - Cybersecurity
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mojalefa%20L.%20Letsoara-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mojalefa-l-letsoara283b5a211/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Justm211-orange?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Justm211)
+[![ImmersiveLabs](https://img.shields.io/badge/ImmersiveLabs-justjeff211-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg==)](https://immersivelabs.online/profile/justjeff211/settings)
+
 ## About Me
 I am a cybersecurity professional driven by a passion for protecting organizations and people from evolving digital threats. I thrive in dynamic, high-pressure environments that demand investigative thinking, problem-solving, and continuous learning. From my early experiences troubleshooting and repairing computers to mastering system administration, networking, and security tools, I have consistently demonstrated a natural aptitude for understanding complex systems and uncovering hidden patterns. These experiences have shaped my approach to cybersecurity, where curiosity, precision, and adaptability are critical.
 
