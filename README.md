@@ -19,7 +19,7 @@ What excites me most about cybersecurity is the opportunity to apply technical s
 - **Network Analysis:** Wireshark  
 - **System Tools:** Registry Editor, hardware troubleshooting/building  
 - **Practical Labs:** [TryHackMe](https://tryhackme.com/p/Justm211), [ImmersiveLabs](https://immersivelabs.online/profile/justjeff211/settings)  
-- **Frameworks & Best Practices:** NIST, risk assessments, incident response  
+- **Frameworks & Best Practices:** NIST, ISO/IEC 27001, MITRE ATT&CK, PCI-DSS (Payment Card Industry Data Security Standard), risk assessments, Cyber Kill Chain, Incident response, Technology, Process  
 
 ## Connect With Me
 - **LinkedIn:** [Mojalefa L. Letsoara](https://www.linkedin.com/in/mojalefa-l-letsoara283b5a211/)
