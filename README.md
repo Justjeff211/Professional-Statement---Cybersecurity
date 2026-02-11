@@ -12,14 +12,14 @@ I am guided by a strong set of values, including a commitment to the confidentia
 What excites me most about cybersecurity is the opportunity to apply technical skills, investigative reasoning and problem-solving to real-world threats. I am motivated by understanding system behaviour, analysing patterns of activity and responding decisively to incidents. This field allows me to continuously challenge myself, stay ahead of evolving threats and make a tangible impact by protecting systems and organizations.
 
 ## Technical Expertise
-- **Operating Systems & Platforms:** Linux, Windows  
-- **Scripting & Automation:** PowerShell  
+- **Operating Systems & Platforms:** Linux, Windows.  
+- **Scripting & Automation:** PowerShell, Nano Editor  
 - **Directory & Identity Management:** Active Directory  
-- **Monitoring & Logging:** Sysmon, Resmon, Splunk  
-- **Network Analysis:** Wireshark  
-- **System Tools:** Registry Editor, hardware troubleshooting/building  
+- **Monitoring & Logging:** Sysmon, Resmon, Splunk, Network Miner, Advanced Ip Scanner.  
+- **Network Analysis:** Wireshark.  
+- **System Tools:** Registry Editor, hardware troubleshooting/building.  
 - **Practical Labs:** [TryHackMe](https://tryhackme.com/p/Justm211), [ImmersiveLabs](https://immersivelabs.online/profile/justjeff211/settings)  
-- **Frameworks & Best Practices:** NIST, ISO/IEC 27001, MITRE ATT&CK, PCI-DSS (Payment Card Industry Data Security Standard), risk assessments, Cyber Kill Chain, Incident response, Technology, Process  
+- **Frameworks & Best Practices:** NIST, ISO/IEC 27001, MITRE ATT&CK, PCI-DSS (Payment Card Industry Data Security Standard), risk assessments, Cyber Kill Chain, Incident response, Technology, Process.
 
 ## Connect With Me
 - **LinkedIn:** [Mojalefa L. Letsoara](https://www.linkedin.com/in/mojalefa-l-letsoara283b5a211/)
