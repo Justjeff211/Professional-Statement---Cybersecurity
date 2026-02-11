@@ -14,7 +14,10 @@ What excites me most about cybersecurity is the opportunity to apply technical s
 - **Monitoring & Logging:** Sysmon, Resmon, Splunk  
 - **Network Analysis:** Wireshark  
 - **System Tools:** Registry Editor, hardware troubleshooting/building  
-- **Practical Labs:** TryHackMe, Immersive Labs  
+- **Practical Labs:** [TryHackMe](https://tryhackme.com/p/Justm211), [ImmersiveLabs](https://immersivelabs.online/profile/justjeff211/settings)  
 - **Frameworks & Best Practices:** NIST, risk assessments, incident response  
+
+## Connect With Me
+- **LinkedIn:** [Mojalefa L. Letsoara](https://www.linkedin.com/in/mojalefa-l-letsoara283b5a211/)
 
 By leveraging my technical expertise, investigative mindset, and commitment to ethical and continuous improvement, I am equipped to help organizations achieve their security goals. I can analyze systems and networks, identify vulnerabilities, monitor systems, respond to incidents, and implement secure architectures that align with business objectives, ensuring resilience and compliance against evolving cyber threats.
